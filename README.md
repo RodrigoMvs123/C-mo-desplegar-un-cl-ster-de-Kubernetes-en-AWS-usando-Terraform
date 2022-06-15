@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=Nx0ghV82g7k
 
 https://raw.githubusercontent.com/RodrigoMvs123/C-mo-desplegar-un-cl-ster-de-Kubernetes-en-AWS-usando-Terraform/main/README.md
 
-
+https://github.com/RodrigoMvs123/C-mo-desplegar-un-cl-ster-de-Kubernetes-en-AWS-usando-Terraform/blame/main/README.md
 
 Amazon Elastic Kubernetes Service ( EKS ) 
 Cluster AWS 
